@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rcheck/
+r-library/
+reproduced_results/
+*.zip
+.env
+.env.*
+kaggle.json
+World-happiness-report*.csv

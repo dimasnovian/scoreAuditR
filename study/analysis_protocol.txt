@@ -1,0 +1,8 @@
+Protocol fixed before these runs; not preregistered.
+Primary simulation: 500 units, four waves, ten five-category items, rho=.7, trend=.15.
+100 independently generated datasets and unit-disjoint splits.
+Three geometries x MCAR/MAR x rates 0,.1,.2,.3 x three scoring methods.
+Fixed true item calibration for EAP validation; no claims of empirical item calibration.
+WHR secondary: original covariates, two evaluation tasks, three geometries, 100 independent masks per condition.
+Panel MCSE conditional on fixed split; simulation MCSE across independent generated datasets.
+Failure and scorability retained. No MCSE interpreted as a population confidence interval.

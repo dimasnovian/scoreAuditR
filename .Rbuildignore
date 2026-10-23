@@ -1,0 +1,5 @@
+^.*[.]Rproj$
+^study$
+^PUBLISHING_STATUS[.]md$
+^[.]gitignore$
+^[.]git$

@@ -1,0 +1,23 @@
+Package: scoreAuditR
+Type: Package
+Title: Audit Scores and Predictions under Structured Missingness
+Version: 0.2.0
+Authors@R: person("Dimas Novian Aditia", "Syahputra", role = c("aut", "cre"), email = "maintainer@example.org")
+Description: Reproducible sensitivity audits for repeated ordinal measurements
+    and numeric country-year panels. Simulates graded response data, masks items
+    under MCAR or observed-covariate MAR designs, and evaluates mean, item-mode
+    and known-calibration expected a posteriori scores and changes.
+    Imports World Happiness Report CSV files, separates country or time partitions,
+    masks observed predictors with explicit pattern geometry, fits training-only
+    imputation and ridge regression, and compares prediction and exact linear
+    interventional Shapley attribution stability against a matched reference.
+    Provides simulated examples, export utilities and an optional Shiny interface.
+    Not a psychometric validation or causal inference tool.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: stats, utils, tools
+Suggests: shiny
+NeedsCompilation: no
+URL: https://github.com/dimasnovian/scoreAuditR
+BugReports: https://github.com/dimasnovian/scoreAuditR/issues

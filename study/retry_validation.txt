@@ -1,0 +1,35 @@
+Fresh installation and tests on 23 October 2026
+TEST independent.R 
+
+Independent QR ridge and exhaustive Shapley checks passed.
+
+PASS independent.R 
+
+
+
+TEST invariants.R 
+
+All invariant tests passed.
+
+PASS invariants.R 
+
+
+
+TEST measurement.R 
+
+All measurement tests passed.
+
+PASS measurement.R 
+
+
+
+TEST shiny_server.R 
+
+Shiny panel and measurement server parity checks passed.
+
+PASS shiny_server.R 
+
+
+
+All four scripts executed successfully on newly installed staged source.
+
