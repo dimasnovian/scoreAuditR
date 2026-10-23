@@ -61,6 +61,10 @@ The study was not externally preregistered. Measurement MCSE spans independent
 generated datasets; WHR MCSE spans artificial masks on one fixed dataset/split.
 Neither constitutes a population sampling confidence interval.
 
+## Data provenance and human participation
+
+This study involved no recruitment of human participants, direct contact with respondents, interventions, or collection of new human-participant data. All empirical data were obtained exclusively from the publicly available World Happiness Report country-year dataset distributed through Kaggle and were analyzed as country-level aggregate indicators. No identifiable individual-level information was accessed or collected. The ordinal-response datasets used for simulations and software verification were generated computationally and did not represent newly recruited participants.
+
 ## Exact real-data source
 
 https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated
