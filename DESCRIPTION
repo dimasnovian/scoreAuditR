@@ -2,7 +2,7 @@ Package: scoreAuditR
 Type: Package
 Title: Audit Scores and Predictions under Structured Missingness
 Version: 0.2.0
-Authors@R: person("Dimas Novian Aditia", "Syahputra", role = c("aut", "cre"), email = "maintainer@example.org")
+Authors@R: person("Dimas Novian Aditia", "Syahputra", role = c("aut", "cre"), email = "dimassyahputra@unesa.ac.id")
 Description: Reproducible sensitivity audits for repeated ordinal measurements
     and numeric country-year panels. Simulates graded response data, masks items
     under MCAR or observed-covariate MAR designs, and evaluates mean, item-mode
