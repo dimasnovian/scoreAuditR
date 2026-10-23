@@ -3,9 +3,11 @@
 This repository distributes scoreAuditR 0.2.0 development source, documentation,
 validation tests, study scripts, simulated examples and derived study CSVs.
 
-The maintainer email in DESCRIPTION remains an explicit placeholder. Confirm the
-appropriate author contact before a final scholarly software release. The final
-manuscript author order, affiliations and declarations also require author input.
+The maintainer contact in DESCRIPTION is dimassyahputra@unesa.ac.id.
+The corresponding author is Dimas Novian Aditia Syahputra. The manuscript author
+order is Dimas Novian Aditia Syahputra, Dodik Arwin Dermawan and Septian Rahman Hakim.
+Author affiliations, correspondence details, ORCID, funding and conflict-of-interest
+declarations are provided in the separate manuscript title page.
 No CRAN publication or journal acceptance is claimed.
 
 Core numerical code matches the source tested on R 4.6.1 Windows. Four test scripts
