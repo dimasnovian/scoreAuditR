@@ -77,17 +77,32 @@ uses contemporaneous indicators; it is not an advance forecast from lagged input
 MNAR, empirical item calibration, ordinal multiple imputation, nonlinear models,
 generic checkpoint resumption and graphical cancellation are not implemented.
 Sensitivity diagnostics do not establish construct validity, invariance or causality.
-The package name is not reserved and no CRAN publication is claimed. The author
-email in DESCRIPTION is a documented placeholder that must be replaced before
-a final scholarly release. This repository is a development distribution. Multiple manuscript authors have been requested, but their final
-order and corresponding contact have not yet been supplied.
+The package name is not reserved. This repository is a development distribution;
+no CRAN publication or journal acceptance is claimed.
 
-Manuscript author identities and declarations require completion separately from
-the development software distribution.
+## Manuscript authors and correspondence
+
+The manuscript author order is:
+
+1. Dimas Novian Aditia Syahputra
+2. Dodik Arwin Dermawan
+3. Septian Rahman Hakim
+
+Dimas Novian Aditia Syahputra and Dodik Arwin Dermawan are affiliated with the
+Faculty of Vocational Studies, Universitas Negeri Surabaya, Surabaya, Indonesia.
+Septian Rahman Hakim is affiliated with the Graduate School of Technology and
+Vocational Education, Universitas Negeri Yogyakarta, Yogyakarta, Indonesia.
+
+The software maintainer and corresponding author is Dimas Novian Aditia Syahputra.
+Contact: [dimassyahputra@unesa.ac.id](mailto:dimassyahputra@unesa.ac.id).
+ORCID: [0009-0008-4334-1098](https://orcid.org/0009-0008-4334-1098).
+
+Author affiliations, full correspondence details, funding and conflict-of-interest
+declarations are provided in the separate manuscript title page.
 
 ## Reproduction files in this repository
 
-See `study/` for the pinned download script, source archive, reproduction script, source checksums and derived study CSVs. Run reproduction from that directory. See `PUBLISHING_STATUS.md` for unresolved publication metadata.
+See `study/` for the pinned download script, source archive, reproduction script, source checksums and derived study CSVs. Run reproduction from that directory. See [PUBLISHING_STATUS.md](PUBLISHING_STATUS.md) for the current distribution status and validation limitations.
 
 ## Software and data links
 
